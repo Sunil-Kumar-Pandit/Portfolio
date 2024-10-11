@@ -1,0 +1,22 @@
+/* components/Navbar.module.css */
+.navbar {
+    padding: 20px;
+    background-color: #333;
+  }
+  
+  .navList {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+  }
+  
+  .navItem a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .navItem a:hover {
+    text-decoration: underline;
+  }
+
+  
