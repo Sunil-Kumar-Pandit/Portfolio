@@ -11,7 +11,7 @@ const About: React.FC = () => {
         <Row className="align-items-center ">
           <Col md={6}>
             <Image
-              src="/sunil.JPEG" // Your image path here
+              src="/Portfolio/sunil.JPEG" // Your image path here
               alt="Profile Picture"
               width={300}
               height={300}
