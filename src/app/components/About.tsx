@@ -34,7 +34,7 @@ const About: React.FC = () => {
            
           </Col>
           <Col md={6} className="align-items-center mt-5 ms-auto">
-          <a href="/cv.pdf" download className="btn btn-success btn-lg">
+          <a href="/Portfolio/cv.pdf" download className="btn btn-success btn-lg">
               <FaDownload className="me-2" /> Download CV
             </a>
           </Col>
